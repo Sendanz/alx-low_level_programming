@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_alphabet_x10 - print the alphabet x10 times
- * Description - This function prints the English alphabet 10 times, separated by a newline character
+ * Description - prints the English alphabet 10 times
  * Return: void
  */
 void print_alphabet_x10(void)
@@ -18,6 +18,4 @@ _putchar(ch);
 _putchar('\n');
 i++;
 }
-
 }
-
