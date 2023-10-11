@@ -1,6 +1,9 @@
 #include "main.h"
 /**
- * print_alphabet_x10 Make alphabet x10 times
+ * print_alphabet_x10 - print the alphabet x10 times
+ *
+ * Description - This function prints the English alphabet 10 times, with each set of alphabets separated by a newline character
+ *
  * Return: void
  */
 void print_alphabet_x10(void)
